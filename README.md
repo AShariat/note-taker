@@ -1,23 +1,46 @@
 # Note Taker
 
-## User Story
+![](https://img.shields.io/badge/License-MIT%20License-blue)
 
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
+## Description
 
-## Acceptance Criteria
+This app lets user to create and save notes and access them from anywhere. I have learned a lot about express js while building this app since it was my first project building a server.
 
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
-WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+First user needs to intall express js package from npm packages. Then run "npm start" inside the project directory and open the http://localhost:3001/ in the browser.
+
+## Usage
+
+I have included pictures of home page and notes page here:
+
+![Untitled-1](https://user-images.githubusercontent.com/88262115/157565679-e81a5329-3357-400b-8839-227869d1ee7a.jpg)
+![Untitled-2](https://user-images.githubusercontent.com/88262115/157565689-d895cc73-3463-48ee-82fc-3d21a3a9003b.jpg)
+
+## License
+
+This Application Is Licensed Under ***MIT License***
+
+## Contribution
+
+https://www.contributor-covenant.org/version/2/1/code_of_conduct/
+
+## Tests
+
+This project is live on Heroku: 
+https://amir-note-taker.herokuapp.com/
+
+## Questions
+  
+[GitHub](https://github.com/ashariat/)
+
+You can reach me at amirshariat1987@gmail.com with additional questions!
