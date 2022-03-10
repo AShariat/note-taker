@@ -2,7 +2,6 @@ let noteTitle;
 let noteText;
 let saveNoteBtn;
 let newNoteBtn;
-let deleteNoteBtn;
 let noteList;
 
 if (window.location.pathname === '/notes') {

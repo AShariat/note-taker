@@ -4,7 +4,7 @@
 
 ## Description
 
-This app lets user to create and save notes and access them from anywhere. I have learned a lot about express js while building this app since it was my first project building a server.
+This app lets users to create and save notes and access them from anywhere and also remove unwanted notes from the list of saved notes. I have learned a lot about express js while building this app since it was my first project building a server.
 
 ## Table of Contents
 
@@ -36,8 +36,9 @@ https://www.contributor-covenant.org/version/2/1/code_of_conduct/
 
 ## Tests
 
-This project is live on Heroku: 
-https://amir-note-taker.herokuapp.com/
+This project is live on Heroku:
+
+[Note Taker](https://amir-note-taker.herokuapp.com/)
 
 ## Questions
   
