@@ -21,7 +21,10 @@ First user needs to intall express js package from npm packages. Then run "npm s
 
 ## Usage
 
-This project is live on Heroku and I am including the link below.
+I have included pictures of home page and notes page here:
+
+![Untitled-1](https://user-images.githubusercontent.com/88262115/157565679-e81a5329-3357-400b-8839-227869d1ee7a.jpg)
+![Untitled-2](https://user-images.githubusercontent.com/88262115/157565689-d895cc73-3463-48ee-82fc-3d21a3a9003b.jpg)
 
 ## License
 
@@ -33,7 +36,8 @@ https://www.contributor-covenant.org/version/2/1/code_of_conduct/
 
 ## Tests
 
-I have included pictures of home page and notes page here:    
+This project is live on Heroku: 
+https://amir-note-taker.herokuapp.com/
 
 ## Questions
   
